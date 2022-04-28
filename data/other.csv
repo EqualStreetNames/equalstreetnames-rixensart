@@ -210,13 +210,13 @@ Olmengaarde,,,,way
 "Petite Rue Belle Vue",,,,way
 "Petite Rue Mahiermont",,,,way
 "Petite rue du Vallon",,,,way
-"Place Adrien Hubaut",,,,way
+"Place Adrien Hubaut",,M,,way
 "Place Ardelle",,,,way
-"Place Cardinal Mercier",,,,way
+"Place Cardinal Mercier",,M,,way
 "Place Communale de Genval",,,,way
-"Place Jack Jefferys",,,,way
-"Place Jean Vanderbecken",,,,way
-"Place Raymond Becquevort",,,,way
+"Place Jack Jefferys",,<,,way
+"Place Jean Vanderbecken",,M,,way
+"Place Raymond Becquevort",,M,,way
 "Place Verte",,,,way
 "Place de la Gare",,,,way
 "Place de la Vieille Taille",,,,way
@@ -226,42 +226,42 @@ Olmengaarde,,,,way
 "Pré Dannonsart",,,,way
 "Promenade de Birstall",,,,way
 "Quai du Tram",,,,way
-"Rond-Point Albert Mayne",,,,way
-"Rond-Point Jean Milo",,,,way
-"Rond-Point Moreau de Melen",,,,way
-"Rond-Point Paul Hanin",,,,way
-"Rond-Point Yvonne Londoz",,,,way
-"Rond-Point du Colonel Jacques Dargent",,,,way
+"Rond-Point Albert Mayne",,M,,way
+"Rond-Point Jean Milo",,M,,way
+"Rond-Point Moreau de Melen",,M,,way
+"Rond-Point Paul Hanin",,M,,way
+"Rond-Point Yvonne Londoz",,F,,way
+"Rond-Point du Colonel Jacques Dargent",,M,,way
 "Rond-Point du Lac",,,,way
 "Route d'Ohain",,,,way
 "Route de Genval",,,,way
 "Route du Ry-Beau-Ry",,,,way
 Rozierensesteenweg,,,,way
 "Rozierensesteenweg / Rue de Malaise",,,,way
-"Rue Adelin Hautfenne",,,,way
-"Rue Albert Croy",,,,way
-"Rue Alphonse Collin",,,,way
-"Rue Auguste Lannoye",,,,way
+"Rue Adelin Hautfenne",,M,,way
+"Rue Albert Croy",,M,,way
+"Rue Alphonse Collin",,M,,way
+"Rue Auguste Lannoye",,M,,way
 "Rue Balatum",,,,way
-"Rue Benoni Van Beethoven",,,,way
+"Rue Benoni Van Beethoven",,M,,way
 "Rue Bois du Bosquet",,,,way
-"Rue Charles-François Loos",,,,way
+"Rue Charles-François Loos",,M,,way
 "Rue Dehan",,,,way
-"Rue Denis Deceuster",,,,way
-"Rue Dyna Beumer",,,,way
-"Rue Edouard Dereume",,,,way
+"Rue Denis Deceuster",,M,,way
+"Rue Dyna Beumer",,F,,way
+"Rue Edouard Dereume",,M,,way
 "Rue Haute",,,,way
-"Rue Jean-Baptiste Stouffs",,,,way
-"Rue Jean-Baptiste Vandercam",,,,way
+"Rue Jean-Baptiste Stouffs",,M,,way
+"Rue Jean-Baptiste Vandercam",,M,,way
 "Rue Jolie",,,,way
-"Rue Joseph Desmet",,,,way
-"Rue Joseph Sneessens",,,,way
+"Rue Joseph Desmet",,M,,way
+"Rue Joseph Sneessens",,M,,way
 "Rue Kwakenbaeme",,,,way
 "Rue Kwakenbienne",,,,way
 "Rue Lambermont",,,,way
 "Rue Mahiermont",,,,way
 "Rue Mascau",,,,way
-"Rue Robert Boisacq",,,,way
+"Rue Robert Boisacq",,M,,way
 "Rue Rosier Bois",,,,way
 "Rue Saint-Roch",,,,way
 "Rue Salmon",,,,way
@@ -282,7 +282,7 @@ Rozierensesteenweg,,,,way
 "Rue de Rosières",,,,way
 "Rue de Tombeek",,,,way
 "Rue de l'Augette",,,,way
-"Rue de l'Aviateur Huens",,,,way
+"Rue de l'Aviateur Huens",,M,,way
 "Rue de l'Église",,,,way
 "Rue de l'Institut",,,,way
 "Rue de l’Église Saint-André",,,,way
@@ -322,8 +322,8 @@ Rozierensesteenweg,,,,way
 "Rue du Bois de Broux",,,,way
 "Rue du Bois du Bosquet",,,,way
 "Rue du Cerf",,,,way
-"Rue du Champ l'Abbé",,,,way
-"Rue du Colonel Montegnie",,,,way
+"Rue du Champ l'Abbé",,M,,way
+"Rue du Colonel Montegnie",,M,,way
 "Rue du Couvent",,,,way
 "Rue du Curé",,,,way
 "Rue du Cyclone",,,,way
@@ -348,16 +348,16 @@ S57,,,,way
 "Sentier 51 (anciennement Champ Vanceau)",,,,way
 "Sentier Belle-Dame",,,,way
 "Sentier Chapelle Robert",,,,way
-"Sentier Cortil Jérome",,,,way
-"Sentier Doyen Clément",,,,way
-"Sentier Françoise Humblet-Vieujant",,,,way
-"Sentier Marcel Ladrier",,,,way
+"Sentier Cortil Jérome",,M,,way
+"Sentier Doyen Clément",,M,,way
+"Sentier Françoise Humblet-Vieujant",,M,,way
+"Sentier Marcel Ladrier",,F,,way
 "Sentier Marguerite",,,,way
 "Sentier Numéro 42",,,,way
 "Sentier Passiche",,,,way
-"Sentier Pierre Louis - mazerine",,,,way
+"Sentier Pierre Louis - mazerine",,M,,way
 "Sentier Pierre Thevenet",,,,way
-"Sentier Saint-Anne",,,,way
+"Sentier Saint-Anne",,F,,way
 "Sentier de Bradu",,,,way
 "Sentier de Ruhondo",,,,way
 "Sentier de Trelon",,,,way
