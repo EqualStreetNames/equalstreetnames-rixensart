@@ -1,62 +1,62 @@
 name,source,gender,wikidata,type
-"Avenue Albert 1er",,,,way
-"Avenue Albertine",,,,way
-"Avenue Aldo Moro",,,,way
-"Avenue Alexandre",,,,way
-"Avenue Amélie",,,,way
-"Avenue André Renard",,,,way
+"Avenue Albert 1er",,M,,way
+"Avenue Albertine",,F,,way
+"Avenue Aldo Moro",,M,,way
+"Avenue Alexandre",,M,,way
+"Avenue Amélie",,F,,way
+"Avenue André Renard",,M,,way
 "Avenue Beau Rivage",,,,way
 "Avenue Bel Horizon",,,,way
 "Avenue Bel-Air",,,,way
 "Avenue Bon Air",,,,way
 "Avenue Bonne Fontaine",,,,way
 "Avenue Boulogne-Billancourt",,,,way
-"Avenue Curé Glibert",,,,way
-"Avenue Docteur Schweitzer",,,,way
+"Avenue Curé Glibert",,M,,way
+"Avenue Docteur Schweitzer",,M,,way
 "Avenue Englebert",,,,way
-"Avenue Félix",,,,way
-"Avenue Fond Jean Rosy",,,,way
+"Avenue Félix",,M,,way
+"Avenue Fond Jean Rosy",,M,,way
 "Avenue Fond de la Vigne",,,,way
-"Avenue Françoise",,,,way
-"Avenue Franklin Roosevelt",,,,way
-"Avenue Général Cordier",,,,way
-"Avenue Général Naessens de Loncin",,,,way
-"Avenue Georges Marchal",,,,way
+"Avenue Françoise",,F,,way
+"Avenue Franklin Roosevelt",,M,,way
+"Avenue Général Cordier",,M,,way
+"Avenue Général Naessens de Loncin",,M,,way
+"Avenue Georges Marchal",,M,,way
 "Avenue Gevaert",,,,way
-"Avenue Hector Steyaert",,,,way
-"Avenue Herbert Hoover",,,,way
+"Avenue Hector Steyaert",,M,,way
+"Avenue Herbert Hoover",,M,,way
 "Avenue Hulet",,,,way
-"Avenue Jacqueline",,,,way
-"Avenue Jean Hermant",,,,way
-"Avenue Jean XXIII",,,,way
-"Avenue Jean de Luxembourg",,,,way
-"Avenue Jeanne",,,,way
-"Avenue John F. Kennedy",,,,way
-"Avenue Joséphine-Charlotte",,,,way
+"Avenue Jacqueline",,F,,way
+"Avenue Jean Hermant",,M,,way
+"Avenue Jean XXIII",,M,,way
+"Avenue Jean de Luxembourg",,M,,way
+"Avenue Jeanne",,F,,way
+"Avenue John F. Kennedy",,M,,way
+"Avenue Joséphine-Charlotte",,F,,way
 "Avenue Legrand",,,,way
-"Avenue Léopold",,,,way
-"Avenue Lieutenant Frederic Boon",,,,way
-"Avenue Marcel Tilquin",,,,way
-"Avenue Marie-Christine",,,,way
-"Avenue Marie-Henriette",,,,way
-"Avenue Marie-Jeanne",,,,way
-"Avenue Marie-José",,,,way
+"Avenue Léopold",,M,,way
+"Avenue Lieutenant Frederic Boon",,M,,way
+"Avenue Marcel Tilquin",,M,,way
+"Avenue Marie-Christine",,F,,way
+"Avenue Marie-Henriette",,F,,way
+"Avenue Marie-Jeanne",,F,,way
+"Avenue Marie-José",,F,,way
 "Avenue Monseigneur",,,,way
 "Avenue Normande",,,,way
 "Avenue Nouvelle",,,,way
-"Avenue Paola",,,,way
-"Avenue Paul Harris",,,,way
-"Avenue Paul Nicodème",,,,way
-"Avenue Paul Terlinden",,,,way
+"Avenue Paola",,F,,way
+"Avenue Paul Harris",,M,,way
+"Avenue Paul Nicodème",,M,,way
+"Avenue Paul Terlinden",,M,,way
 "Avenue Privée",,,,way
-"Avenue Roger de Grimberghe",,,,way
+"Avenue Roger de Grimberghe",,M,,way
 "Avenue Rose France",,,,way
 "Avenue Royale",,,,way
-"Avenue Salvador Allende",,,,way
-"Avenue Suzanne",,,,way
-"Avenue Thérèse",,,,way
-"Avenue Winston Churchill",,,,way
-"Avenue Yvan",,,,way
+"Avenue Salvador Allende",,M,,way
+"Avenue Suzanne",,F,,way
+"Avenue Thérèse",,F,,way
+"Avenue Winston Churchill",,M,,way
+"Avenue Yvan",,M,,way
 "Avenue d'Elsenborn",,,,way
 "Avenue de Clermont Tonnerre",,,,way
 "Avenue de L'Aurore",,,,way
@@ -100,7 +100,7 @@ name,source,gender,wikidata,type
 "Avenue des Ramiers",,,,way
 "Avenue des Sorbiers",,,,way
 "Avenue des Tourterelles",,,,way
-"Avenue du Baron Dubost",,,,way
+"Avenue du Baron Dubost",,M,,way
 "Avenue du Bois Sainte Catherine",,,,way
 "Avenue du Bois du Héron",,,,way
 "Avenue du Bois-la-haut",,,,way
@@ -108,19 +108,19 @@ name,source,gender,wikidata,type
 "Avenue du Centre",,,,way
 "Avenue du Château",,,,way
 "Avenue du Clos Royal",,,,way
-"Avenue du Fond Marie Monseu",,,,way
+"Avenue du Fond Marie Monseu",,F,,way
 "Avenue du Joli Mai",,,,way
 "Avenue du Lac",,,,way
-"Avenue du Maréchal Foch",,,,way
+"Avenue du Maréchal Foch",,M,,way
 "Avenue du Pèlerin",,,,way
-"Avenue du Prince De Liège",,,,way
+"Avenue du Prince De Liège",,M,,way
 "Avenue du Québec",,,,way
-"Avenue du Révérent Père Pire",,,,way
+"Avenue du Révérent Père Pire",,M,,way
 "Avenue du Rond Point",,,,way
 "Avenue du Sartage",,,,way
 "Avenue du Théâtre",,,,way
 "Avenue du Touquet",,,,way
-"Avenuee Reine Elisabeth",,,,way
+"Avenuee Reine Elisabeth",,F,,way
 "Avenues des sept Bonniers",,,,way
 "Beau Site Cinquième Avenue",,,,way
 "Beau Site Deuxième Avenue",,,,way
@@ -146,8 +146,8 @@ Biesbempt,,,,way
 "Chaussée de Rixensart",,,,way
 "Chaussée de Wavre",,,,way
 "Chemin Demanet",,,,way
-"Chemin Denis",,,,way
-"Chemin Saint-Anne",,,,way
+"Chemin Denis",,M,,way
+"Chemin Saint-Anne",,F,,way
 "Chemin de la Campagne du Baudet",,,,way
 "Chemin de la Carrière",,,,way
 "Chemin de la Source",,,,way
@@ -167,7 +167,7 @@ Biesbempt,,,,way
 "Chêne à la Croix",,,,way
 "Clos Cense du Sart",,,,way
 "Clos Domvart",,,,way
-"Clos Sainte-Anne",,,,way
+"Clos Sainte-Anne",,F,,way
 "Clos de l'Enfant des étoiles",,,,way
 "Clos de la Brise",,,,way
 "Clos de la Lisière",,,,way
