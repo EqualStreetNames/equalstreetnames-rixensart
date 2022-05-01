@@ -1,62 +1,62 @@
 name,source,gender,wikidata,type
-"Avenue Albert 1er",,M,,way
-"Avenue Albertine",,F,,way
-"Avenue Aldo Moro",,M,,way
-"Avenue Alexandre",,M,,way
-"Avenue Amélie",,F,,way
-"Avenue André Renard",,M,,way
+"Avenue Albert 1er",,,,way
+"Avenue Albertine",,,,way
+"Avenue Aldo Moro",,,,way
+"Avenue Alexandre",,,,way
+"Avenue Amélie",,,,way
+"Avenue André Renard",,,,way
 "Avenue Beau Rivage",,,,way
 "Avenue Bel Horizon",,,,way
 "Avenue Bel-Air",,,,way
 "Avenue Bon Air",,,,way
 "Avenue Bonne Fontaine",,,,way
 "Avenue Boulogne-Billancourt",,,,way
-"Avenue Curé Glibert",,M,,way
-"Avenue Docteur Schweitzer",,M,,way
+"Avenue Curé Glibert",,,,way
+"Avenue Docteur Schweitzer",,,,way
 "Avenue Englebert",,,,way
-"Avenue Félix",,M,,way
-"Avenue Fond Jean Rosy",,M,,way
+"Avenue Félix",,,,way
+"Avenue Fond Jean Rosy",,,,way
 "Avenue Fond de la Vigne",,,,way
-"Avenue Françoise",,F,,way
-"Avenue Franklin Roosevelt",,M,,way
-"Avenue Général Cordier",,M,,way
-"Avenue Général Naessens de Loncin",,M,,way
-"Avenue Georges Marchal",,M,,way
+"Avenue Françoise",,,,way
+"Avenue Franklin Roosevelt",,,,way
+"Avenue Général Cordier",,,,way
+"Avenue Général Naessens de Loncin",,,,way
+"Avenue Georges Marchal",,,,way
 "Avenue Gevaert",,,,way
-"Avenue Hector Steyaert",,M,,way
-"Avenue Herbert Hoover",,M,,way
+"Avenue Hector Steyaert",,,,way
+"Avenue Herbert Hoover",,,,way
 "Avenue Hulet",,,,way
-"Avenue Jacqueline",,F,,way
-"Avenue Jean Hermant",,M,,way
-"Avenue Jean XXIII",,M,,way
-"Avenue Jean de Luxembourg",,M,,way
-"Avenue Jeanne",,F,,way
-"Avenue John F. Kennedy",,M,,way
-"Avenue Joséphine-Charlotte",,F,,way
+"Avenue Jacqueline",,,,way
+"Avenue Jean Hermant",,,,way
+"Avenue Jean XXIII",,,,way
+"Avenue Jean de Luxembourg",,,,way
+"Avenue Jeanne",,,,way
+"Avenue John F. Kennedy",,,,way
+"Avenue Joséphine-Charlotte",,,,way
 "Avenue Legrand",,,,way
-"Avenue Léopold",,M,,way
-"Avenue Lieutenant Frederic Boon",,M,,way
-"Avenue Marcel Tilquin",,M,,way
-"Avenue Marie-Christine",,F,,way
-"Avenue Marie-Henriette",,F,,way
-"Avenue Marie-Jeanne",,F,,way
-"Avenue Marie-José",,F,,way
+"Avenue Léopold",,,,way
+"Avenue Lieutenant Frederic Boon",,,,way
+"Avenue Marcel Tilquin",,,,way
+"Avenue Marie-Christine",,,,way
+"Avenue Marie-Henriette",,,,way
+"Avenue Marie-Jeanne",,,,way
+"Avenue Marie-José",,,,way
 "Avenue Monseigneur",,,,way
 "Avenue Normande",,,,way
 "Avenue Nouvelle",,,,way
-"Avenue Paola",,F,,way
-"Avenue Paul Harris",,M,,way
-"Avenue Paul Nicodème",,M,,way
-"Avenue Paul Terlinden",,M,,way
+"Avenue Paola",,,,way
+"Avenue Paul Harris",,,,way
+"Avenue Paul Nicodème",,,,way
+"Avenue Paul Terlinden",,,,way
 "Avenue Privée",,,,way
-"Avenue Roger de Grimberghe",,M,,way
+"Avenue Roger de Grimberghe",,,,way
 "Avenue Rose France",,,,way
 "Avenue Royale",,,,way
-"Avenue Salvador Allende",,M,,way
-"Avenue Suzanne",,F,,way
-"Avenue Thérèse",,F,,way
-"Avenue Winston Churchill",,M,,way
-"Avenue Yvan",,M,,way
+"Avenue Salvador Allende",,,,way
+"Avenue Suzanne",,,,way
+"Avenue Thérèse",,,,way
+"Avenue Winston Churchill",,,,way
+"Avenue Yvan",,,,way
 "Avenue d'Elsenborn",,,,way
 "Avenue de Clermont Tonnerre",,,,way
 "Avenue de L'Aurore",,,,way
@@ -100,7 +100,7 @@ name,source,gender,wikidata,type
 "Avenue des Ramiers",,,,way
 "Avenue des Sorbiers",,,,way
 "Avenue des Tourterelles",,,,way
-"Avenue du Baron Dubost",,M,,way
+"Avenue du Baron Dubost",,,,way
 "Avenue du Bois Sainte Catherine",,,,way
 "Avenue du Bois du Héron",,,,way
 "Avenue du Bois-la-haut",,,,way
@@ -108,19 +108,19 @@ name,source,gender,wikidata,type
 "Avenue du Centre",,,,way
 "Avenue du Château",,,,way
 "Avenue du Clos Royal",,,,way
-"Avenue du Fond Marie Monseu",,F,,way
+"Avenue du Fond Marie Monseu",,,,way
 "Avenue du Joli Mai",,,,way
 "Avenue du Lac",,,,way
-"Avenue du Maréchal Foch",,M,,way
+"Avenue du Maréchal Foch",,,,way
 "Avenue du Pèlerin",,,,way
-"Avenue du Prince De Liège",,M,,way
+"Avenue du Prince De Liège",,,,way
 "Avenue du Québec",,,,way
-"Avenue du Révérent Père Pire",,M,,way
+"Avenue du Révérent Père Pire",,,,way
 "Avenue du Rond Point",,,,way
 "Avenue du Sartage",,,,way
 "Avenue du Théâtre",,,,way
 "Avenue du Touquet",,,,way
-"Avenuee Reine Elisabeth",,F,,way
+"Avenuee Reine Elisabeth",,,,way
 "Avenues des sept Bonniers",,,,way
 "Beau Site Cinquième Avenue",,,,way
 "Beau Site Deuxième Avenue",,,,way
@@ -146,8 +146,8 @@ Biesbempt,,,,way
 "Chaussée de Rixensart",,,,way
 "Chaussée de Wavre",,,,way
 "Chemin Demanet",,,,way
-"Chemin Denis",,M,,way
-"Chemin Saint-Anne",,F,,way
+"Chemin Denis",,,,way
+"Chemin Saint-Anne",,,,way
 "Chemin de la Campagne du Baudet",,,,way
 "Chemin de la Carrière",,,,way
 "Chemin de la Source",,,,way
@@ -167,7 +167,7 @@ Biesbempt,,,,way
 "Chêne à la Croix",,,,way
 "Clos Cense du Sart",,,,way
 "Clos Domvart",,,,way
-"Clos Sainte-Anne",,F,,way
+"Clos Sainte-Anne",,,,way
 "Clos de l'Enfant des étoiles",,,,way
 "Clos de la Brise",,,,way
 "Clos de la Lisière",,,,way
@@ -210,13 +210,13 @@ Olmengaarde,,,,way
 "Petite Rue Belle Vue",,,,way
 "Petite Rue Mahiermont",,,,way
 "Petite rue du Vallon",,,,way
-"Place Adrien Hubaut",,M,,way
+"Place Adrien Hubaut",,,,way
 "Place Ardelle",,,,way
-"Place Cardinal Mercier",,M,,way
+"Place Cardinal Mercier",,,,way
 "Place Communale de Genval",,,,way
-"Place Jack Jefferys",,<,,way
-"Place Jean Vanderbecken",,M,,way
-"Place Raymond Becquevort",,M,,way
+"Place Jack Jefferys",,,,way
+"Place Jean Vanderbecken",,,,way
+"Place Raymond Becquevort",,,,way
 "Place Verte",,,,way
 "Place de la Gare",,,,way
 "Place de la Vieille Taille",,,,way
@@ -226,42 +226,42 @@ Olmengaarde,,,,way
 "Pré Dannonsart",,,,way
 "Promenade de Birstall",,,,way
 "Quai du Tram",,,,way
-"Rond-Point Albert Mayne",,M,,way
-"Rond-Point Jean Milo",,M,,way
-"Rond-Point Moreau de Melen",,M,,way
-"Rond-Point Paul Hanin",,M,,way
-"Rond-Point Yvonne Londoz",,F,,way
-"Rond-Point du Colonel Jacques Dargent",,M,,way
+"Rond-Point Albert Mayne",,,,way
+"Rond-Point Jean Milo",,,,way
+"Rond-Point Moreau de Melen",,,,way
+"Rond-Point Paul Hanin",,,,way
+"Rond-Point Yvonne Londoz",,,,way
+"Rond-Point du Colonel Jacques Dargent",,,,way
 "Rond-Point du Lac",,,,way
 "Route d'Ohain",,,,way
 "Route de Genval",,,,way
 "Route du Ry-Beau-Ry",,,,way
 Rozierensesteenweg,,,,way
 "Rozierensesteenweg / Rue de Malaise",,,,way
-"Rue Adelin Hautfenne",,M,,way
-"Rue Albert Croy",,M,,way
-"Rue Alphonse Collin",,M,,way
-"Rue Auguste Lannoye",,M,,way
+"Rue Adelin Hautfenne",,,,way
+"Rue Albert Croy",,,,way
+"Rue Alphonse Collin",,,,way
+"Rue Auguste Lannoye",,,,way
 "Rue Balatum",,,,way
-"Rue Benoni Van Beethoven",,M,,way
+"Rue Benoni Van Beethoven",,,,way
 "Rue Bois du Bosquet",,,,way
-"Rue Charles-François Loos",,M,,way
+"Rue Charles-François Loos",,,,way
 "Rue Dehan",,,,way
-"Rue Denis Deceuster",,M,,way
-"Rue Dyna Beumer",,F,,way
-"Rue Edouard Dereume",,M,,way
+"Rue Denis Deceuster",,,,way
+"Rue Dyna Beumer",,,,way
+"Rue Edouard Dereume",,,,way
 "Rue Haute",,,,way
-"Rue Jean-Baptiste Stouffs",,M,,way
-"Rue Jean-Baptiste Vandercam",,M,,way
+"Rue Jean-Baptiste Stouffs",,,,way
+"Rue Jean-Baptiste Vandercam",,,,way
 "Rue Jolie",,,,way
-"Rue Joseph Desmet",,M,,way
-"Rue Joseph Sneessens",,M,,way
+"Rue Joseph Desmet",,,,way
+"Rue Joseph Sneessens",,,,way
 "Rue Kwakenbaeme",,,,way
 "Rue Kwakenbienne",,,,way
 "Rue Lambermont",,,,way
 "Rue Mahiermont",,,,way
 "Rue Mascau",,,,way
-"Rue Robert Boisacq",,M,,way
+"Rue Robert Boisacq",,,,way
 "Rue Rosier Bois",,,,way
 "Rue Saint-Roch",,,,way
 "Rue Salmon",,,,way
@@ -282,7 +282,7 @@ Rozierensesteenweg,,,,way
 "Rue de Rosières",,,,way
 "Rue de Tombeek",,,,way
 "Rue de l'Augette",,,,way
-"Rue de l'Aviateur Huens",,M,,way
+"Rue de l'Aviateur Huens",,,,way
 "Rue de l'Église",,,,way
 "Rue de l'Institut",,,,way
 "Rue de l’Église Saint-André",,,,way
@@ -322,8 +322,8 @@ Rozierensesteenweg,,,,way
 "Rue du Bois de Broux",,,,way
 "Rue du Bois du Bosquet",,,,way
 "Rue du Cerf",,,,way
-"Rue du Champ l'Abbé",,M,,way
-"Rue du Colonel Montegnie",,M,,way
+"Rue du Champ l'Abbé",,,,way
+"Rue du Colonel Montegnie",,,,way
 "Rue du Couvent",,,,way
 "Rue du Curé",,,,way
 "Rue du Cyclone",,,,way
@@ -348,16 +348,16 @@ S57,,,,way
 "Sentier 51 (anciennement Champ Vanceau)",,,,way
 "Sentier Belle-Dame",,,,way
 "Sentier Chapelle Robert",,,,way
-"Sentier Cortil Jérome",,M,,way
-"Sentier Doyen Clément",,M,,way
-"Sentier Françoise Humblet-Vieujant",,M,,way
-"Sentier Marcel Ladrier",,F,,way
+"Sentier Cortil Jérome",,,,way
+"Sentier Doyen Clément",,,,way
+"Sentier Françoise Humblet-Vieujant",,,,way
+"Sentier Marcel Ladrier",,,,way
 "Sentier Marguerite",,,,way
 "Sentier Numéro 42",,,,way
 "Sentier Passiche",,,,way
-"Sentier Pierre Louis - mazerine",,M,,way
+"Sentier Pierre Louis - mazerine",,,,way
 "Sentier Pierre Thevenet",,,,way
-"Sentier Saint-Anne",,F,,way
+"Sentier Saint-Anne",,,,way
 "Sentier de Bradu",,,,way
 "Sentier de Ruhondo",,,,way
 "Sentier de Trelon",,,,way
