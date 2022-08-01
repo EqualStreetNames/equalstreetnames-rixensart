@@ -36,6 +36,7 @@ name,source,gender,wikidata,type
 "Avenue Legrand",,,,way
 "Avenue Léopold",,,,way
 "Avenue Lieutenant Frederic Boon",,,,way
+"Avenue Lieutenant Frédéric Boon",,,,way
 "Avenue Marcel Tilquin",,,,way
 "Avenue Marie-Christine",,,,way
 "Avenue Marie-Henriette",,,,way
@@ -75,6 +76,7 @@ name,source,gender,wikidata,type
 "Avenue de la Paix",,,,way
 "Avenue de la Petite Cense",,,,way
 "Avenue de la Ransbienne",,,,way
+"Avenue de la Rasbienne",,,,way
 "Avenue de la Résistance",,,,way
 "Avenue de la Rochefoucauld",,,,way
 "Avenue de la Roseraie",,,,way
@@ -131,7 +133,6 @@ Biesbempt,,,,way
 "Bois Pirat, accès n° 40",,,,way
 "Bois des Mayeurs",,,,way
 "Centenaire - 1ère avenue",,,,way
-"Centenaire - 2e Avenue",,,,way
 "Centenaire - 2ème avenue",,,,way
 "Centenaire - 3ème avenue",,,,way
 "Centenaire - 4ème avenue",,,,way
@@ -143,7 +144,6 @@ Biesbempt,,,,way
 "Champ du Petit Bois",,,,way
 "Champ du signe",,,,way
 "Chaussée de Lasne",,,,way
-"Chaussée de Rixensart",,,,way
 "Chaussée de Wavre",,,,way
 "Chemin Demanet",,,,way
 "Chemin Denis",,,,way
@@ -359,6 +359,7 @@ S57,,,,way
 "Sentier Pierre Thevenet",,,,way
 "Sentier Saint-Anne",,,,way
 "Sentier de Bradu",,,,way
+"Sentier de Lambermont",,,,way
 "Sentier de Ruhondo",,,,way
 "Sentier de Trelon",,,,way
 "Sentier de Woo",,,,way
