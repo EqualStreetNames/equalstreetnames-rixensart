@@ -1,16 +1,19 @@
 name,source,gender,wikidata,type
-"Avenue Albert 1er",,,,way
+"Avenue Boulogne-Billancourt",wikidata,,Q172455,way
+"Avenue de la Paix",wikidata,,Q454,way
+"Avenue des Tourterelles",wikidata,,Q3535557,way
+"Chaussée de Wavre",wikidata,,Q181314,way
+"Drève des Hêtres",wikidata,,Q146149,way
+"Rue de Nivelles",wikidata,,Q319463,way
 "Avenue Albertine",,,,way
 "Avenue Aldo Moro",,,,way
 "Avenue Alexandre",,,,way
 "Avenue Amélie",,,,way
-"Avenue André Renard",,,,way
 "Avenue Beau Rivage",,,,way
 "Avenue Bel Horizon",,,,way
 "Avenue Bel-Air",,,,way
 "Avenue Bon Air",,,,way
 "Avenue Bonne Fontaine",,,,way
-"Avenue Boulogne-Billancourt",,,,way
 "Avenue Curé Glibert",,,,way
 "Avenue Docteur Schweitzer",,,,way
 "Avenue Englebert",,,,way
@@ -20,7 +23,6 @@ name,source,gender,wikidata,type
 "Avenue Françoise",,,,way
 "Avenue Franklin Roosevelt",,,,way
 "Avenue Général Cordier",,,,way
-"Avenue Général Naessens de Loncin",,,,way
 "Avenue Georges Marchal",,,,way
 "Avenue Gevaert",,,,way
 "Avenue Hector Steyaert",,,,way
@@ -28,10 +30,8 @@ name,source,gender,wikidata,type
 "Avenue Hulet",,,,way
 "Avenue Jacqueline",,,,way
 "Avenue Jean Hermant",,,,way
-"Avenue Jean XXIII",,,,way
 "Avenue Jean de Luxembourg",,,,way
 "Avenue Jeanne",,,,way
-"Avenue John F. Kennedy",,,,way
 "Avenue Joséphine-Charlotte",,,,way
 "Avenue Legrand",,,,way
 "Avenue Léopold",,,,way
@@ -39,13 +39,11 @@ name,source,gender,wikidata,type
 "Avenue Lieutenant Frédéric Boon",,,,way
 "Avenue Marcel Tilquin",,,,way
 "Avenue Marie-Christine",,,,way
-"Avenue Marie-Henriette",,,,way
 "Avenue Marie-Jeanne",,,,way
 "Avenue Marie-José",,,,way
 "Avenue Monseigneur",,,,way
 "Avenue Normande",,,,way
 "Avenue Nouvelle",,,,way
-"Avenue Paola",,,,way
 "Avenue Paul Harris",,,,way
 "Avenue Paul Nicodème",,,,way
 "Avenue Paul Terlinden",,,,way
@@ -73,7 +71,6 @@ name,source,gender,wikidata,type
 "Avenue de la Biche",,,,way
 "Avenue de la Chataigneraie",,,,way
 "Avenue de la Faisanderie",,,,way
-"Avenue de la Paix",,,,way
 "Avenue de la Petite Cense",,,,way
 "Avenue de la Ransbienne",,,,way
 "Avenue de la Rasbienne",,,,way
@@ -88,6 +85,7 @@ name,source,gender,wikidata,type
 "Avenue des Azalées",,,,way
 "Avenue des Cerisiers",,,,way
 "Avenue des Combattants",,,,way
+"Avenue des Combattants / Rue du Vallon",,,,way
 "Avenue des Cormiers",,,,way
 "Avenue des Eaux-Vives",,,,way
 "Avenue des Erables",,,,way
@@ -101,7 +99,6 @@ name,source,gender,wikidata,type
 "Avenue des Pâquerettes",,,,way
 "Avenue des Ramiers",,,,way
 "Avenue des Sorbiers",,,,way
-"Avenue des Tourterelles",,,,way
 "Avenue du Baron Dubost",,,,way
 "Avenue du Bois Sainte Catherine",,,,way
 "Avenue du Bois du Héron",,,,way
@@ -147,7 +144,6 @@ Biesbempt,,,,way
 "Champ du Petit Bois",,,,way
 "Champ du signe",,,,way
 "Chaussée de Lasne",,,,way
-"Chaussée de Wavre",,,,way
 "Chemin Demanet",,,,way
 "Chemin Denis",,,,way
 "Chemin Saint-Anne",,,,way
@@ -190,13 +186,11 @@ Biesbempt,,,,way
 "Clos du Verger",,,,way
 "Colline du Glain",,,,way
 "Drève des Etangs",,,,way
-"Drève des Hêtres",,,,way
 "Drève des Magnolias",,,,way
 "Drève des Sapins",,,,way
 "Drève du Château",,,,way
 "Drève du Fory",,,,way
 "Drève du Val Saint-Pierre",,,,way
-"Drève du val Fleuri",,,,way
 Eechelenpoel,,,,way
 "Fond Tasnier",,,,way
 "Fontaine Fonteny",,,,way
@@ -204,7 +198,6 @@ Eechelenpoel,,,,way
 "Genvalstraat / Rue de Genval",,,,way
 "Impasse de la Bruyère",,,,way
 "Kamvoetweg / La Verte Voie",,,,way
-"La Closière",,,,way
 "Leemveldstraat / La Verte Voie",,,,way
 Meerlaan,,,,way
 Olmengaarde,,,,way
@@ -216,6 +209,7 @@ Olmengaarde,,,,way
 "Place Adrien Hubaut",,,,way
 "Place Ardelle",,,,way
 "Place Cardinal Mercier",,,,way
+"Place Communale",,,,way
 "Place Communale de Genval",,,,way
 "Place Jack Jefferys",,,,way
 "Place Jean Vanderbecken",,,,way
@@ -230,7 +224,6 @@ Olmengaarde,,,,way
 "Promenade de Birstall",,,,way
 "Quai du Tram",,,,way
 "Rond-Point Albert Mayne",,,,way
-"Rond-Point Jean Milo",,,,way
 "Rond-Point Moreau de Melen",,,,way
 "Rond-Point Paul Hanin",,,,way
 "Rond-Point Yvonne Londoz",,,,way
@@ -244,7 +237,6 @@ Rozierensesteenweg,,,,way
 "Rue Adelin Hautfenne",,,,way
 "Rue Albert Croy",,,,way
 "Rue Alphonse Collin",,,,way
-"Rue Auguste Lannoye",,,,way
 "Rue Balatum",,,,way
 "Rue Benoni Van Beethoven",,,,way
 "Rue Bois du Bosquet",,,,way
@@ -259,7 +251,6 @@ Rozierensesteenweg,,,,way
 "Rue Jolie",,,,way
 "Rue Joseph Desmet",,,,way
 "Rue Joseph Sneessens",,,,way
-"Rue Kwakenbaeme",,,,way
 "Rue Kwakenbienne",,,,way
 "Rue Lambermont",,,,way
 "Rue Mahiermont",,,,way
@@ -278,7 +269,6 @@ Rozierensesteenweg,,,,way
 "Rue de Limalsart",,,,way
 "Rue de Malaise",,,,way
 "Rue de Messe",,,,way
-"Rue de Nivelles",,,,way
 "Rue de Renipont",,,,way
 "Rue de Rixensart",,,,way
 "Rue de Rofessart",,,,way
@@ -307,7 +297,9 @@ Rozierensesteenweg,,,,way
 "Rue de la Station",,,,way
 "Rue de la Taillette",,,,way
 "Rue de la Tasnière",,,,way
+"Rue de la ferme du plagniau",,,,way
 "Rue de la fontaine",,,,way
+"Rue des Ateliers",,,,way
 "Rue des Bergères",,,,way
 "Rue des Bleuets",,,,way
 "Rue des Brasseries",,,,way
@@ -402,6 +394,7 @@ S57,,,,way
 "Sentier n°19",,,,way
 "Square Dessy",,,,way
 "Square de la Résistance",,,,way
+"Square des Papeteries",,,,way
 "Square des Primevères",,,,way
 "Tunnel du Pertuis",,,,way
 "Val de la Rivière",,,,way

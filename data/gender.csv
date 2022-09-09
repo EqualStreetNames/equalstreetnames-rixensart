@@ -1,5 +1,14 @@
 name,source,gender,wikidata,type
+"Avenue Marie-Henriette",wikidata,F,Q234047,way
+"Avenue Paola",wikidata,F,Q31129,way
 "Avenue Reine Astrid",wikidata,F,Q230238,way
 "Avenue Reine Fabiola",wikidata,F,Q231171,way
+"Avenue Albert 1er",wikidata,M,Q55008046,way
+"Avenue André Renard",wikidata,M,Q2049920,way
 "Avenue Baudouin",wikidata,M,Q12976,way
+"Avenue Jean XXIII",wikidata,M,Q23873,way
+"Avenue John F. Kennedy",wikidata,M,Q9696,way
 "Avenue Martin Luther King",wikidata,M,Q8027,way
+"Rond-Point Jean Milo",wikidata,M,Q3173536,way
+"Rue Auguste Lannoye",wikidata,M,Q64563646,way
+"Avenue Général Naessens de Loncin",csv,M,,way
