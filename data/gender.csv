@@ -12,3 +12,12 @@ name,source,gender,wikidata,type
 "Rond-Point Jean Milo",wikidata,M,Q3173536,way
 "Rue Auguste Lannoye",wikidata,M,Q64563646,way
 "Avenue Général Naessens de Loncin",csv,M,,way
+"Avenue Paul Nicodème",csv,M,,way
+"Avenue Roger de Grimberghe",csv,M,,way
+"Place Jean Vanderbecken",csv,M,,way
+"Rond-Point Albert Mayne",csv,M,,way
+"Rue Adelin Hautfenne",csv,M,,way
+"Rue Albert Croy",csv,M,,way
+"Rue Denis Deceuster",csv,M,,way
+"Rue Edouard Dereume",csv,M,,way
+"Rue de l'Aviateur Huens",csv,M,,way
