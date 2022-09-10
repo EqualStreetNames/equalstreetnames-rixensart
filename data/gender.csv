@@ -26,3 +26,11 @@ name,source,gender,wikidata,type
 "Rue Edouard Dereume",csv,M,,way
 "Rue Robert Boisacq",csv,M,,way
 "Rue de l'Aviateur Huens",csv,M,,way
+"Avenue Albert Prince de Liege",wikidata,M,Q3911,way
+"Avenue Aldo Moro",wikidata,M,Q171834,way
+"Place Cardinal Mercier",wikidata,M,Q468097,way
+"Avenue Docteur Schweitzer",wikidata,M,Q49325,way
+"Rue Dyna Beumer",wikidata,F,Q27989351,way
+"Avenue Franklin Roosevelet",wikidata,M,Q8007,way
+"Avenue Jean de Luxembourg",wikidata,M,Q324648,way
+"Avenue Maréchal Foch",wikidata,M,Q192615,way
