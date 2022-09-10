@@ -12,3 +12,11 @@ name,source,gender,wikidata,type
 "Rond-Point Jean Milo",wikidata,M,Q3173536,way
 "Rue Auguste Lannoye",wikidata,M,Q64563646,way
 "Avenue Général Naessens de Loncin",csv,M,,way
+"Avenue Albert Prince de Liege",wikidata,M,Q3911,way
+"Avenue Aldo Moro",wikidata,M,Q171834,way
+"Place Cardinal Mercier",wikidata,M,Q468097,way
+"Avenue Docteur Schweitzer",wikidata,M,Q49325,way
+"Rue Dyna Beumer",wikidata,F,Q27989351,way
+"Avenue Franklin Roosevelet",wikidata,M,Q8007,way
+"Avenue Jean de Luxembourg",wikidata,M,Q324648,way
+"Avenue Maréchal Foch",wikidata,M,Q192615,way
