@@ -3,14 +3,24 @@ name,source,gender,wikidata,type
 "Avenue Paola",wikidata,F,Q31129,way
 "Avenue Reine Astrid",wikidata,F,Q230238,way
 "Avenue Reine Fabiola",wikidata,F,Q231171,way
+"Rue Dyna Beumer",wikidata,F,Q27989351,way
 "Avenue Albert 1er",wikidata,M,Q55008046,way
+"Avenue Aldo Moro",wikidata,M,Q171834,way
 "Avenue André Renard",wikidata,M,Q2049920,way
 "Avenue Baudouin",wikidata,M,Q12976,way
+"Avenue Docteur Schweitzer",wikidata,M,Q49325,way
+"Avenue Franklin Roosevelt",wikidata,M,Q8007,way
 "Avenue Jean XXIII",wikidata,M,Q23873,way
+"Avenue Jean de Luxembourg",wikidata,M,Q324648,way
 "Avenue John F. Kennedy",wikidata,M,Q9696,way
 "Avenue Martin Luther King",wikidata,M,Q8027,way
+"Avenue de Montalembert",wikidata,M,Q577504,way
+"Avenue du Maréchal Foch",wikidata,M,Q192615,way
+"Avenue du Prince De Liège",wikidata,M,Q3911,way
+"Place Cardinal Mercier",wikidata,M,Q468097,way
 "Rond-Point Jean Milo",wikidata,M,Q3173536,way
 "Rue Auguste Lannoye",wikidata,M,Q64563646,way
+"Avenue de Clermont Tonnerre",csv,F,,way
 "Avenue Général Naessens de Loncin",csv,M,,way
 "Avenue Marcel Tilquin",csv,M,,way
 "Avenue Paul Nicodème",csv,M,,way
@@ -26,11 +36,3 @@ name,source,gender,wikidata,type
 "Rue Edouard Dereume",csv,M,,way
 "Rue Robert Boisacq",csv,M,,way
 "Rue de l'Aviateur Huens",csv,M,,way
-"Avenue Albert Prince de Liège",wikidata,M,Q3911,way
-"Avenue Aldo Moro",wikidata,M,Q171834,way
-"Place Cardinal Mercier",wikidata,M,Q468097,way
-"Avenue Docteur Schweitzer",wikidata,M,Q49325,way
-"Rue Dyna Beumer",wikidata,F,Q27989351,way
-"Avenue Franklin Roosevelt",wikidata,M,Q8007,way
-"Avenue Jean de Luxembourg",wikidata,M,Q324648,way
-"Avenue Maréchal Foch",wikidata,M,Q192615,way

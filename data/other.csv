@@ -6,7 +6,6 @@ name,source,gender,wikidata,type
 "Drève des Hêtres",wikidata,,Q146149,way
 "Rue de Nivelles",wikidata,,Q319463,way
 "Avenue Albertine",,,,way
-"Avenue Aldo Moro",,,,way
 "Avenue Alexandre",,,,way
 "Avenue Amélie",,,,way
 "Avenue Beau Rivage",,,,way
@@ -15,13 +14,11 @@ name,source,gender,wikidata,type
 "Avenue Bon Air",,,,way
 "Avenue Bonne Fontaine",,,,way
 "Avenue Curé Glibert",,,,way
-"Avenue Docteur Schweitzer",,,,way
 "Avenue Englebert",,,,way
 "Avenue Félix",,,,way
 "Avenue Fond Jean Rosy",,,,way
 "Avenue Fond de la Vigne",,,,way
 "Avenue Françoise",,,,way
-"Avenue Franklin Roosevelt",,,,way
 "Avenue Général Cordier",,,,way
 "Avenue Georges Marchal",,,,way
 "Avenue Gevaert",,,,way
@@ -30,7 +27,6 @@ name,source,gender,wikidata,type
 "Avenue Hulet",,,,way
 "Avenue Jacqueline",,,,way
 "Avenue Jean Hermant",,,,way
-"Avenue Jean de Luxembourg",,,,way
 "Avenue Jeanne",,,,way
 "Avenue Joséphine-Charlotte",,,,way
 "Avenue Legrand",,,,way
@@ -54,10 +50,8 @@ name,source,gender,wikidata,type
 "Avenue Winston Churchill",,,,way
 "Avenue Yvan",,,,way
 "Avenue d'Elsenborn",,,,way
-"Avenue de Clermont Tonnerre",,,,way
 "Avenue de L'Aurore",,,,way
 "Avenue de Merode",,,,way
-"Avenue de Montalembert",,,,way
 "Avenue de Nivelles",,,,way
 "Avenue de Poperinge",,,,way
 "Avenue de Ripont",,,,way
@@ -106,9 +100,7 @@ name,source,gender,wikidata,type
 "Avenue du Fond Marie Monseu",,,,way
 "Avenue du Joli Mai",,,,way
 "Avenue du Lac",,,,way
-"Avenue du Maréchal Foch",,,,way
 "Avenue du Pèlerin",,,,way
-"Avenue du Prince De Liège",,,,way
 "Avenue du Québec",,,,way
 "Avenue du Révérent Père Pire",,,,way
 "Avenue du Rond Point",,,,way
@@ -204,7 +196,6 @@ Olmengaarde,,,,way
 "Petite rue du Vallon",,,,way
 "Place Adrien Hubaut",,,,way
 "Place Ardelle",,,,way
-"Place Cardinal Mercier",,,,way
 "Place Communale",,,,way
 "Place Communale de Genval",,,,way
 "Place Jack Jefferys",,,,way
@@ -232,7 +223,6 @@ Rozierensesteenweg,,,,way
 "Rue Bois du Bosquet",,,,way
 "Rue Charles-François Loos",,,,way
 "Rue Dehan",,,,way
-"Rue Dyna Beumer",,,,way
 "Rue Haute",,,,way
 "Rue Jean-Baptiste Stouffs",,,,way
 "Rue Jean-Baptiste Vandercam",,,,way
