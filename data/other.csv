@@ -5,7 +5,6 @@ name,source,gender,wikidata,type
 "Chaussée de Wavre",wikidata,,Q181314,way
 "Drève des Hêtres",wikidata,,Q146149,way
 "Rue de Nivelles",wikidata,,Q319463,way
-"Avenue Albertine",,,,way
 "Avenue Alexandre",,,,way
 "Avenue Amélie",,,,way
 "Avenue Beau Rivage",,,,way
@@ -44,10 +43,8 @@ name,source,gender,wikidata,type
 "Avenue Privée",,,,way
 "Avenue Rose France",,,,way
 "Avenue Royale",,,,way
-"Avenue Salvador Allende",,,,way
 "Avenue Suzanne",,,,way
 "Avenue Thérèse",,,,way
-"Avenue Winston Churchill",,,,way
 "Avenue Yvan",,,,way
 "Avenue d'Elsenborn",,,,way
 "Avenue de L'Aurore",,,,way
@@ -211,7 +208,6 @@ Olmengaarde,,,,way
 "Quai du Tram",,,,way
 "Rond-Point Moreau de Melen",,,,way
 "Rond-Point Paul Hanin",,,,way
-"Rond-Point Yvonne Londoz",,,,way
 "Rond-Point du Colonel Jacques Dargent",,,,way
 "Rond-Point du Lac",,,,way
 "Route d'Ohain",,,,way
@@ -234,7 +230,6 @@ Rozierensesteenweg,,,,way
 "Rue Mahiermont",,,,way
 "Rue Mascau",,,,way
 "Rue Rosier Bois",,,,way
-"Rue Saint-Roch",,,,way
 "Rue Salmon",,,,way
 "Rue Tombeek Beauseant",,,,way
 "Rue de Belle Vue",,,,way

@@ -14,13 +14,17 @@ name,source,gender,wikidata,type
 "Avenue Jean de Luxembourg",wikidata,M,Q324648,way
 "Avenue John F. Kennedy",wikidata,M,Q9696,way
 "Avenue Martin Luther King",wikidata,M,Q8027,way
+"Avenue Salvador Allende",wikidata,M,Q440,way
 "Avenue de Montalembert",wikidata,M,Q577504,way
 "Avenue du Maréchal Foch",wikidata,M,Q192615,way
 "Avenue du Prince De Liège",wikidata,M,Q3911,way
 "Place Cardinal Mercier",wikidata,M,Q468097,way
 "Rond-Point Jean Milo",wikidata,M,Q3173536,way
 "Rue Auguste Lannoye",wikidata,M,Q64563646,way
+"Rue Saint-Roch",wikidata,M,Q152457,way
+"Avenue Albertine",csv,F,,way
 "Avenue de Clermont Tonnerre",csv,F,,way
+"Rond-Point Yvonne Londoz",csv,F,,way
 "Avenue Général Naessens de Loncin",csv,M,,way
 "Avenue Marcel Tilquin",csv,M,,way
 "Avenue Paul Nicodème",csv,M,,way
