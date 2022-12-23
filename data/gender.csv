@@ -5,6 +5,7 @@ name,source,gender,wikidata,type
 "Avenue Reine Fabiola",wikidata,F,Q231171,way
 "Avenuee Reine Elisabeth",wikidata,F,Q235186,way
 "Rue Dyna Beumer",wikidata,F,Q27989351,way
+"Sentier Dyna Beumer",wikidata,F,Q27989351,way
 "Avenue Albert 1er",wikidata,M,Q55008046,way
 "Avenue Aldo Moro",wikidata,M,Q171834,way
 "Avenue André Renard",wikidata,M,Q2049920,way
@@ -34,20 +35,30 @@ name,source,gender,wikidata,type
 "Avenue Joséphine-Charlotte",wikidata,F,Q160984,way
 "Avenue Marie-Christine",wikidata,F,Q642899,way
 "Avenue Albertine",csv,F,,way
+"Avenue Amélie",csv,F,,way
+"Avenue Françoise",csv,F,,way
+"Avenue Jacqueline",csv,F,,way
+"Avenue Jeanne",csv,F,,way
+"Avenue Marie-Jeanne",csv,F,,way
+"Avenue Suzanne",csv,F,,way
 "Avenue de Clermont Tonnerre",csv,F,,way
 "Avenue de la Rochefoucauld",csv,F,,way
 "Avenue du Fond Marie Monseu",csv,F,,way
 "Rond-Point Yvonne Londoz",csv,F,,way
+"Avenue Alexandre",csv,M,,way
 "Avenue Curé Glibert",csv,M,,way
+"Avenue Félix",csv,M,,way
 "Avenue Fond Jean Rosy",csv,M,,way
 "Avenue Général Cordier",csv,M,,way
 "Avenue Général Naessens de Loncin",csv,M,,way
 "Avenue Georges Marchal",csv,M,,way
 "Avenue Hector Steyaert",csv,M,,way
+"Avenue Jean Hermant",csv,M,,way
 "Avenue Marcel Tilquin",csv,M,,way
 "Avenue Paul Harris",csv,M,,way
 "Avenue Paul Nicodème",csv,M,,way
 "Avenue Roger de Grimberghe",csv,M,,way
+"Avenue Yvan",csv,M,,way
 "Avenue du Baron Dubost",csv,M,,way
 "Place Jean Vanderbecken",csv,M,,way
 "Rond-Point Albert Mayne",csv,M,,way
