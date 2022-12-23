@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 "Avenue Paola",wikidata,F,Q31129,way
 "Avenue Reine Astrid",wikidata,F,Q230238,way
 "Avenue Reine Fabiola",wikidata,F,Q231171,way
+"Avenuee Reine Elisabeth",wikidata,F,Q235186,way
 "Rue Dyna Beumer",wikidata,F,Q27989351,way
 "Avenue Albert 1er",wikidata,M,Q55008046,way
 "Avenue Aldo Moro",wikidata,M,Q171834,way
@@ -14,23 +15,22 @@ name,source,gender,wikidata,type
 "Avenue Jean de Luxembourg",wikidata,M,Q324648,way
 "Avenue John F. Kennedy",wikidata,M,Q9696,way
 "Avenue Martin Luther King",wikidata,M,Q8027,way
+"Avenue Paul Terlinden",wikidata,M,Q16669292,way
 "Avenue Salvador Allende",wikidata,M,Q440,way
 "Avenue Winston Churchill",wikidata,M,Q8016,way
 "Avenue de Montalembert",wikidata,M,Q577504,way
 "Avenue du Maréchal Foch",wikidata,M,Q192615,way
 "Avenue du Prince De Liège",wikidata,M,Q3911,way
+"Avenue du Révérent Père Pire",wikidata,M,Q158850,way
 "Place Cardinal Mercier",wikidata,M,Q468097,way
+"Place Jack Jefferys",wikidata,M,Q43265375,way
 "Rond-Point Jean Milo",wikidata,M,Q3173536,way
+"Rond-Point Moreau de Melen",wikidata,M,Q2321947,way
+"Rond-Point Paul Hanin",wikidata,M,Q2729607,way
 "Rue Auguste Lannoye",wikidata,M,Q64563646,way
 "Rue Saint-Roch",wikidata,M,Q152457,way
-"Avenue Paul Terlinden",wikidata,M,Q16669292,way
-"Place Raymond Becquevort",wikidata,M,Q1829510,way
-"Avenue Reine Elisabeth",wikidata,F,Q235186,way
-"Avenue du Révérent Père Pire",wikidata,M,Q158850,way
 "Sentier Pierre Thevenet",wikidata,M,Q18195254,way
-"Rond-Point Paul Hanin",wikidata,M,Q2729607,way
-"Rond-Point Moreau de Melen",wikidata,M,Q2321947,way
-"Place Jack Jefferys",wikidata,M,Q43265375,way
+"Avenue Albertine",csv,F,,way
 "Avenue de Clermont Tonnerre",csv,F,,way
 "Avenue de la Rochefoucauld",csv,F,,way
 "Rond-Point Yvonne Londoz",csv,F,,way
@@ -48,6 +48,7 @@ name,source,gender,wikidata,type
 "Rue Benoni Van Beethoven",csv,M,,way
 "Rue Denis Deceuster",csv,M,,way
 "Rue Edouard Dereume",csv,M,,way
+"Rue Joseph Desmet",csv,M,,way
 "Rue Robert Boisacq",csv,M,,way
 "Rue de l'Aviateur Huens",csv,M,,way
 "Square Dessy",csv,M,,way
