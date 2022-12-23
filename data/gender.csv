@@ -26,7 +26,8 @@ name,source,gender,wikidata,type
 "Place Raymond Becquevort",wikidata,M,Q1829510,way
 "Avenue Reine Elisabeth",wikidata,F,Q235186,way
 "Avenue du Révérent Père Pire",wikidata,M,Q158850,way
-"Avenue Albertine",csv,F,,way
+"Sentier Pierre Thevenet",wikidata,M,Q18195254,way
+"Rond-Point Paul Hanin",wikidata,M,Q2729607,way
 "Avenue de Clermont Tonnerre",csv,F,,way
 "Rond-Point Yvonne Londoz",csv,F,,way
 "Avenue Général Naessens de Loncin",csv,M,,way
@@ -37,7 +38,6 @@ name,source,gender,wikidata,type
 "Place Jean Vanderbecken",csv,M,,way
 "Rond-Point Albert Mayne",csv,M,,way
 "Rue Adelin Hautfenne",csv,M,,way
-"Rue Albert Croy",csv,M,,way
 "Rue Alphonse Collin",csv,M,,way
 "Rue Benoni Van Beethoven",csv,M,,way
 "Rue Denis Deceuster",csv,M,,way
