@@ -34,6 +34,7 @@ name,source,gender,wikidata,type
 "Avenue de Clermont Tonnerre",csv,F,,way
 "Avenue de la Rochefoucauld",csv,F,,way
 "Rond-Point Yvonne Londoz",csv,F,,way
+"Avenue Fond Jean Rosy",csv,M,,way
 "Avenue Général Naessens de Loncin",csv,M,,way
 "Avenue Marcel Tilquin",csv,M,,way
 "Avenue Paul Harris",csv,M,,way
@@ -42,6 +43,7 @@ name,source,gender,wikidata,type
 "Avenue du Baron Dubost",csv,M,,way
 "Place Jean Vanderbecken",csv,M,,way
 "Rond-Point Albert Mayne",csv,M,,way
+"Rond-Point du Colonel Jacques Dargent",csv,M,,way
 "Rue Adelin Hautfenne",csv,M,,way
 "Rue Albert Croy",csv,M,,way
 "Rue Alphonse Collin",csv,M,,way
@@ -53,4 +55,5 @@ name,source,gender,wikidata,type
 "Rue Joseph Desmet",csv,M,,way
 "Rue Robert Boisacq",csv,M,,way
 "Rue de l'Aviateur Huens",csv,M,,way
+"Rue du Colonel Montegnie",csv,M,,way
 "Square Dessy",csv,M,,way
