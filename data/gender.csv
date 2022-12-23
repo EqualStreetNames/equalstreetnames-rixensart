@@ -24,7 +24,7 @@ name,source,gender,wikidata,type
 "Rue Saint-Roch",wikidata,M,Q152457,way
 "Avenue Paul Terlinden",wikidata,M,Q16669292,way
 "Place Raymond Becquevort",wikidata,M,Q1829510,way
-"Avenuee Reine Elisabeth",wikidata,F,Q235186,way
+"Avenue Reine Elisabeth",wikidata,F,Q235186,way
 "Avenue du Révérent Père Pire",wikidata,M,Q158850,way
 "Avenue Albertine",csv,F,,way
 "Avenue de Clermont Tonnerre",csv,F,,way
