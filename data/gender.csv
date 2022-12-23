@@ -22,6 +22,7 @@ name,source,gender,wikidata,type
 "Rond-Point Jean Milo",wikidata,M,Q3173536,way
 "Rue Auguste Lannoye",wikidata,M,Q64563646,way
 "Rue Saint-Roch",wikidata,M,Q152457,way
+"Avenue Paul Terlinden",wikidata,M,Q16669292,way
 "Avenue Albertine",csv,F,,way
 "Avenue de Clermont Tonnerre",csv,F,,way
 "Rond-Point Yvonne Londoz",csv,F,,way
