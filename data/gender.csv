@@ -32,6 +32,7 @@ name,source,gender,wikidata,type
 "Rue Saint-Roch",wikidata,M,Q152457,way
 "Sentier Pierre Thevenet",wikidata,M,Q18195254,way
 "Avenue Joséphine-Charlotte",wikidata,F,Q160984,way
+"Avenue Marie-Christine",wikidata,F,Q642899,way
 "Avenue Albertine",csv,F,,way
 "Avenue de Clermont Tonnerre",csv,F,,way
 "Avenue de la Rochefoucauld",csv,F,,way
