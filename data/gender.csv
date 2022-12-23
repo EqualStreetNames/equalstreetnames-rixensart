@@ -23,6 +23,7 @@ name,source,gender,wikidata,type
 "Rond-Point Jean Milo",wikidata,M,Q3173536,way
 "Rue Auguste Lannoye",wikidata,M,Q64563646,way
 "Rue Saint-Roch",wikidata,M,Q152457,way
+"Avenue Albertine",csv,F,,way
 "Avenue Paul Terlinden",wikidata,M,Q16669292,way
 "Place Raymond Becquevort",wikidata,M,Q1829510,way
 "Avenue Reine Elisabeth",wikidata,F,Q235186,way
@@ -35,12 +36,14 @@ name,source,gender,wikidata,type
 "Rond-Point Yvonne Londoz",csv,F,,way
 "Avenue Général Naessens de Loncin",csv,M,,way
 "Avenue Marcel Tilquin",csv,M,,way
+"Avenue Paul Harris",csv,M,,way
 "Avenue Paul Nicodème",csv,M,,way
 "Avenue Roger de Grimberghe",csv,M,,way
 "Avenue du Baron Dubost",csv,M,,way
 "Place Jean Vanderbecken",csv,M,,way
 "Rond-Point Albert Mayne",csv,M,,way
 "Rue Adelin Hautfenne",csv,M,,way
+"Rue Albert Croy",csv,M,,way
 "Rue Alphonse Collin",csv,M,,way
 "Rue Benoni Van Beethoven",csv,M,,way
 "Rue Denis Deceuster",csv,M,,way
