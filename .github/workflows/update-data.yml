@@ -4,6 +4,7 @@ on:
   # Run every month on the 1st at 7:00 UTC
   schedule:
     - cron: "0 7 1 * *"
+  workflow_dispatch:
   push:
     paths:
       - ".github/workflows/update-data.yml"
