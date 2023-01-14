@@ -32,8 +32,55 @@ name,source,gender,wikidata,type
 "Rond-Point Jean Milo",wikidata,M,Q3173536,way
 "Rond-Point Moreau de Melen",wikidata,M,Q2321947,way
 "Rond-Point Paul Hanin",wikidata,M,Q2729607,way
+"Rond-point Peyo",wikidata,M,Q309945,way
 "Rue Auguste Lannoye",wikidata,M,Q64563646,way
 "Rue Saint-Roch",wikidata,M,Q152457,way
 "Sentier Pierre Thevenet",wikidata,M,Q18195254,way
-"Avenue Marie-Jose",wikidata,F,Q72919,way
-"Rond-point Peyo",wikidata,M,Q309945,way
+"Avenue Albertine",csv,F,,way
+"Avenue Amélie",csv,F,,way
+"Avenue Françoise",csv,F,,way
+"Avenue Jacqueline",csv,F,,way
+"Avenue Jeanne",csv,F,,way
+"Avenue Marie-Jeanne",csv,F,,way
+"Avenue Suzanne",csv,F,,way
+"Avenue Thérèse",csv,F,,way
+"Avenue de Clermont Tonnerre",csv,F,,way
+"Avenue de la Rochefoucauld",csv,F,,way
+"Avenue du Fond Marie Monseu",csv,F,,way
+"Rond-Point Yvonne Londoz",csv,F,,way
+"Sentier Marguerite",csv,F,,way
+"Avenue Alexandre",csv,M,,way
+"Avenue Curé Glibert",csv,M,,way
+"Avenue Félix",csv,M,,way
+"Avenue Fond Jean Rosy",csv,M,,way
+"Avenue Général Cordier",csv,M,,way
+"Avenue Général Naessens de Loncin",csv,M,,way
+"Avenue Georges Marchal",csv,M,,way
+"Avenue Hector Steyaert",csv,M,,way
+"Avenue Jean Hermant",csv,M,,way
+"Avenue Léopold",csv,M,,way
+"Avenue Lieutenant Frédéric Boon",csv,M,,way
+"Avenue Marcel Tilquin",csv,M,,way
+"Avenue Paul Harris",csv,M,,way
+"Avenue Paul Nicodème",csv,M,,way
+"Avenue Roger de Grimberghe",csv,M,,way
+"Avenue Yvan",csv,M,,way
+"Avenue du Baron Dubost",csv,M,,way
+"Petite Avenue Léopold",csv,M,,way
+"Place Jean Vanderbecken",csv,M,,way
+"Rond-Point Albert Mayne",csv,M,,way
+"Rond-Point du Colonel Jacques Dargent",csv,M,,way
+"Rue Adelin Hautfenne",csv,M,,way
+"Rue Albert Croy",csv,M,,way
+"Rue Alphonse Collin",csv,M,,way
+"Rue Benoni Van Beethoven",csv,M,,way
+"Rue Denis Deceuster",csv,M,,way
+"Rue Edouard Dereume",csv,M,,way
+"Rue Jean-Baptiste Stouffs",csv,M,,way
+"Rue Jean-Baptiste Vandercam",csv,M,,way
+"Rue Joseph Desmet",csv,M,,way
+"Rue Robert Boisacq",csv,M,,way
+"Rue de l'Aviateur Huens",csv,M,,way
+"Rue du Colonel Montegnie",csv,M,,way
+"Sentier Marcel Ladrière",csv,M,,way
+"Square Dessy",csv,M,,way
