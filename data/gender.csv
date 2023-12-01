@@ -50,6 +50,7 @@ name,source,gender,wikidata,type
 "Rond-Point Yvonne Londoz",csv,F,,way
 "Sentier Marguerite",csv,F,,way
 "Avenue Alexandre",csv,M,,way
+"Avenue Benoni van Beethoven",csv,M,,way
 "Avenue Curé Glibert",csv,M,,way
 "Avenue Félix",csv,M,,way
 "Avenue Fond Jean Rosy",csv,M,,way
@@ -73,7 +74,6 @@ name,source,gender,wikidata,type
 "Rue Adelin Hautfenne",csv,M,,way
 "Rue Albert Croy",csv,M,,way
 "Rue Alphonse Collin",csv,M,,way
-"Rue Benoni Van Beethoven",csv,M,,way
 "Rue Denis Deceuster",csv,M,,way
 "Rue Edouard Dereume",csv,M,,way
 "Rue Jean-Baptiste Stouffs",csv,M,,way
