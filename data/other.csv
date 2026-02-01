@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+"""Promenade Autorisée""",,,,way
 "Autoroute des Ardennes",,,,way
 "Avenue Beau Rivage",,,,way
 "Avenue Bel Horizon",,,,way
@@ -98,7 +99,7 @@ Biesbempt,,,,way
 "Chaussée de Lasne",,,,way
 "Chemin Demanet",,,,way
 "Chemin Denis",,,,way
-"Chemin Saint-Anne",,,,way
+"Chemin Sainte-Anne",,,,way
 "Chemin de la Campagne du Baudet",,,,way
 "Chemin de la Carrière",,,,way
 "Chemin de la Source",,,,way
@@ -151,6 +152,7 @@ Eechelenpoel,,,,way
 "Genvalstraat / Rue de Genval",,,,way
 "Impasse de la Bruyère",,,,way
 "Kamvoetweg / La Verte Voie",,,,way
+"La Closière",,,,way
 Meerlaan,,,,way
 Olmengaarde,,,,way
 "Pachis à la Croix",,,,way
@@ -167,6 +169,7 @@ Olmengaarde,,,,way
 "Place des Martyrs",,,,way
 "Place du Beau Site",,,,way
 "Place du Millénaire",,,,way
+"Pont Piéton",,,,way
 "Pré Dannonsart",,,,way
 "Pré Maillard",,,,way
 "Promenade de Birstall",,,,way
@@ -280,7 +283,6 @@ S57,,,,way
 "Sentier Numéro 42",,,,way
 "Sentier Passiche",,,,way
 "Sentier Pierre Louis - mazerine",,,,way
-"Sentier Saint-Anne",,,,way
 "Sentier de Bradu",,,,way
 "Sentier de Lambermont",,,,way
 "Sentier de Ruhondo",,,,way
